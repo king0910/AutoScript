@@ -1,0 +1,1 @@
+call build_pkg_windows.bat debug
